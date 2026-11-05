@@ -1,0 +1,6 @@
+interface:
+  display_name: "Humanizy"
+  short_description: "Natural prose with research-informed writing audits"
+  default_prompt: "Use $humanizy to write or revise this in my voice, preserving the meaning and checking the structure and wording."
+policy:
+  allow_implicit_invocation: true
